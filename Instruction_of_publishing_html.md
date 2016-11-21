@@ -1,7 +1,7 @@
 #Instruction of publishing html file on USC aludra server
 ###Open terminal, and type following command:
 ```{r, engine='bash', count_lines}
-$ ssh <your USC web ID>@aludra.usc.edu
+$ ssh <your USC web ID>@aludra.usc.edu       e.g. ssh wenjiawa@aludra.usc.edu
 $ mkdir public_html
 $ chmod 755 public_html
 $ cd public_html
