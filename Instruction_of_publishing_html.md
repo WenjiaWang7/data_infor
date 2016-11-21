@@ -1,6 +1,6 @@
 #Instruction of publishing html file on USC aludra server
 
-*Open terminal, and type following command:
+1. Open terminal, and type following command:
 ```{r, engine='bash', count_lines}
 $ ssh <your USC web ID>@aludra.usc.edu       e.g. ssh wenjiawa@aludra.usc.edu
 $ mkdir public_html
@@ -21,7 +21,7 @@ e.g.
 $ chmod 755 index.html 
 ```
 
-*Then, open browser. The website will then be visible at http://www-scf.usc.edu/~username. e.g. http://www-scf.usc.edu/~wenjiawa
+2. Then, open browser. The website will then be visible at http://www-scf.usc.edu/~username. e.g. http://www-scf.usc.edu/~wenjiawa
 
 This Instruction is based on OSX environment.
 Here are references:
